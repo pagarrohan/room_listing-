@@ -1,4 +1,5 @@
 # Room Listing App - Unravel WebApp Challenge
+  <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/49be295e-5813-4925-b64e-699f82926da9" />
 
 A responsive, high-performance room listing application built with React.js featuring infinite scrolling, optimized media loading, and modern UI/UX patterns.
 
